@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.ArrayList.*;
 
-public class main {
+public class main3 {
 
 	public static void main(String[] args) {
 		
