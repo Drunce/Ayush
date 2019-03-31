@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.ArrayList.*;
 
-public class main {
+public class main4 {
 
 	public static void main(String[] args) {
 		
@@ -209,19 +209,7 @@ public class main {
 	
 	int thirdd=second+smallest4;
 	System.out.println("[0 - 3] " +"p"+(index)+ "[]"+veryp+"[p"+(index2)+"]"+second+"[p"+(index3)+"]"+thirdd);
-	
-	
-	
-	
-	
-	
-	
+		
 }
-
-	private static int findIndex(int[] arrival, int smallest) {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-	
 	
 }
