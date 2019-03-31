@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.ArrayList;
 
 
-public class main {
+public class main1 {
 
 	//Global variable
 	
